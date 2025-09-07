@@ -114,17 +114,5 @@ Me chamo Igor Ferreira, tenho 22 anos e sou natural de sao paulo. Concluí o ens
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 
-
-### Estastiticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorFerreiranuraghazra&show_icons=true&theme=)
-dracula&include_allcommits=true&locale=pt-br)
-
+<
