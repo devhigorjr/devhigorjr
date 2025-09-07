@@ -1,4 +1,4 @@
-## Igor Ferreira*
+## 👨🏽‍💻Igor Ferreira
 **`Desenvolvedor Back-End`**
 
 Me chamo Igor Ferreira, tenho 22 anos e sou natural de sao paulo. Concluí o ensino médio no R.A,P, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro Do sul. Sou apaixonado por tecnologia. estou no inicio de tudo mas com muita vontade de crescer nessa area.
